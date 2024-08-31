@@ -1,2 +1,2 @@
-# tipos-de-datos
-tipos de datos con type
+# participacion
+todos los codigos de las clases, tipos de datos, condicionales if, else, for y while con un juego de piedra papel o tijera.
